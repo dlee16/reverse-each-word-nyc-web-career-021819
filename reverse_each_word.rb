@@ -3,3 +3,7 @@ def reverse_each_word(sentence1)
   reversed= new.each { |x| x.reverse!}
 return reversed.join(" ")
 end
+
+def reverse_each_word(sentence1)
+  
+end
