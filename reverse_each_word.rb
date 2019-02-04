@@ -4,3 +4,4 @@ def reverse_each_word(sentence1)
   new.each { |word| new.reverse}
   word.push(new)
 end
+end
