@@ -4,4 +4,5 @@ def reverse_each_word(sentence1)
   sentence1.each {|words| reverse.push(new.pop)}
   reversed.join
 end
+puts reversed 
 end
