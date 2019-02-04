@@ -4,5 +4,5 @@ def reverse_each_word(sentence1)
   new.each do |char| 
   reversed.unshift(char)
 end
-return reversed.join
+return reversed.join(" ")
 end
